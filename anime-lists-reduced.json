@@ -83894,6 +83894,16 @@
     "tmdb" : 1
   }
 }, {
+  "anidb_id" : 19600,
+  "themoviedb_id" : {
+    "tv" : 79166
+  },
+  "tvdb_id" : 343913,
+  "season" : {
+    "tvdb" : 3,
+    "tmdb" : 3
+  }
+}, {
   "anidb_id" : 19601,
   "themoviedb_id" : {
     "movie" : [ 1551201 ]
@@ -84848,6 +84858,16 @@
     "tmdb" : 1
   }
 }, {
+  "anidb_id" : 19957,
+  "themoviedb_id" : {
+    "tv" : 317259
+  },
+  "tvdb_id" : 475739,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
   "anidb_id" : 19967,
   "themoviedb_id" : {
     "tv" : 285933
@@ -85048,6 +85068,66 @@
     "tv" : 324862
   },
   "tvdb_id" : 478865,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
+  "anidb_id" : 20086,
+  "themoviedb_id" : {
+    "tv" : 325101
+  },
+  "tvdb_id" : 479020,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
+  "anidb_id" : 20091,
+  "themoviedb_id" : {
+    "tv" : 284391
+  },
+  "tvdb_id" : 479132,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
+  "anidb_id" : 20114,
+  "themoviedb_id" : {
+    "tv" : 325949
+  },
+  "tvdb_id" : 479426,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
+  "anidb_id" : 20117,
+  "themoviedb_id" : {
+    "tv" : 297438
+  },
+  "tvdb_id" : 466488,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 2
+  }
+}, {
+  "anidb_id" : 20121,
+  "themoviedb_id" : {
+    "tv" : 326247
+  },
+  "tvdb_id" : 479566,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
+  "anidb_id" : 20128,
+  "themoviedb_id" : {
+    "tv" : 326471
+  },
+  "tvdb_id" : 479657,
   "season" : {
     "tvdb" : 1,
     "tmdb" : 1
