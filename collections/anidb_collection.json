@@ -6011,6 +6011,9 @@
   "name" : "Kankin Kuiki Level X",
   "ids" : [ 18857, 19179 ]
 }, {
+  "name" : "Dushi Gu Xian Yi",
+  "ids" : [ 18897, 20487 ]
+}, {
   "name" : "Wuhang Zhanshen",
   "ids" : [ 18907, 18908 ]
 }, {
@@ -6167,6 +6170,9 @@
   "name" : "Bawang Long Lei Qi: Lei Qi Zhi Duoshao",
   "ids" : [ 20268, 20269, 20270 ]
 }, {
+  "name" : "Oshiri Tantei 8th Season",
+  "ids" : [ 20275, 20501 ]
+}, {
   "name" : "Eiga Uchuu Nanchara Kotetsu-kun: Ukkari Detekita Uchuujin o Sagase!",
   "ids" : [ 20347 ]
 }, {
@@ -6193,4 +6199,7 @@
 }, {
   "name" : "Dalisi Rizhi 3",
   "ids" : [ 20478 ]
+}, {
+  "name" : "Koukaku Kidoutai (Shinsaku Animation)",
+  "ids" : [ 20500 ]
 } ]

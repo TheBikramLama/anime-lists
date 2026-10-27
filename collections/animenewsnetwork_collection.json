@@ -5186,6 +5186,9 @@
   "name" : "37891",
   "ids" : [ 37891 ]
 }, {
+  "name" : "Android wa Keiken Ninzuu ni Hairimasu ka??",
+  "ids" : [ 36127, 38106 ]
+}, {
   "name" : "Tom to Jerry Gokko",
   "ids" : [ 34214, 39378 ]
 }, {
@@ -5275,9 +5278,6 @@
 }, {
   "name" : "Gosenzo Sane",
   "ids" : [ 43, 6264, 11309 ]
-}, {
-  "name" : "Android wa Keiken Ninzuu ni Hairimasu ka??",
-  "ids" : [ 36127, 38106 ]
 }, {
   "name" : "Imouto Jiru",
   "ids" : [ 6455, 7438, 11853 ]

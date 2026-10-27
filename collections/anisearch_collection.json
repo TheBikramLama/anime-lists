@@ -7655,6 +7655,9 @@
   "name" : "Taiyou yori mo Mabushii Hoshi",
   "ids" : [ 20171, 21104 ]
 }, {
+  "name" : "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite",
+  "ids" : [ 20193, 20718 ]
+}, {
   "name" : "Neko to Ryuu",
   "ids" : [ 20222, 21977 ]
 }, {
@@ -7687,6 +7690,9 @@
 }, {
   "name" : "Seitokai ni mo Ana wa Aru! PV",
   "ids" : [ 19822, 20474 ]
+}, {
+  "name" : "Android wa Keiken Ninzuu ni Hairimasu ka??",
+  "ids" : [ 20493, 21306 ]
 }, {
   "name" : "Catch! Tiniping",
   "ids" : [ 15294, 16904, 21850 ]
@@ -7867,9 +7873,6 @@
 }, {
   "name" : "Zoku Gosenzo Sane",
   "ids" : [ 1525, 3211, 5435 ]
-}, {
-  "name" : "Android wa Keiken Ninzuu ni Hairimasu ka??",
-  "ids" : [ 20493, 21306 ]
 }, {
   "name" : "Imouto Jiru",
   "ids" : [ 3069, 3955, 6480 ]
@@ -8215,9 +8218,6 @@
 }, {
   "name" : "Hitozuma Cosplay Kissa",
   "ids" : [ 199, 4398 ]
-}, {
-  "name" : "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite",
-  "ids" : [ 20193, 20718 ]
 }, {
   "name" : "Honoo no Haramase Tenkousei",
   "ids" : [ 3861, 5116, 10174, 10760, 12502 ]
