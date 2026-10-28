@@ -1226,6 +1226,10 @@
   "mal_id" : 30234,
   "simkl_id" : 1572805
 }, {
+  "type" : "SPECIAL",
+  "anilist_id" : 218739,
+  "kitsu_id" : 51149
+}, {
   "type" : "ONA",
   "anidb_id" : 20262,
   "anilist_id" : 217391,
@@ -6288,6 +6292,9 @@
   "kitsu_id" : 10094,
   "mal_id" : 28585
 }, {
+  "type" : "SPECIAL",
+  "mal_id" : 65249
+}, {
   "type" : "TV",
   "anilist_id" : 140140,
   "anime-planet_id" : "ak-mofa-shaonu",
@@ -9364,6 +9371,7 @@
   "mal_id" : 39975
 }, {
   "type" : "ONA",
+  "anidb_id" : 19330,
   "animecountdown_id" : 2781522,
   "animenewsnetwork_id" : 36127,
   "anime-planet_id" : "does-it-count-if-you-lose-your-virginity-to-an-android",
@@ -15141,7 +15149,7 @@
   "anilist_id" : 173313,
   "animecountdown_id" : 3021866,
   "animenewsnetwork_id" : 37934,
-  "anime-planet_id" : "atashinchi-next",
+  "anime-planet_id" : "atashinchi-next-2025",
   "anisearch_id" : 19081,
   "livechart_id" : 12494,
   "mal_id" : 57822,
@@ -15149,7 +15157,6 @@
 }, {
   "type" : "ONA",
   "anilist_id" : 203146,
-  "anime-planet_id" : "atashinchi-next-2025",
   "mal_id" : 63013
 }, {
   "type" : "SPECIAL",
@@ -31412,6 +31419,9 @@
   "mal_id" : 59381
 }, {
   "type" : "ONA",
+  "mal_id" : 65256
+}, {
+  "type" : "ONA",
   "anisearch_id" : 21932
 }, {
   "type" : "MOVIE",
@@ -34377,6 +34387,9 @@
   "anisearch_id" : 17693,
   "kitsu_id" : 47512,
   "mal_id" : 55311
+}, {
+  "type" : "OVA",
+  "mal_id" : 65230
 }, {
   "type" : "MOVIE",
   "anime-planet_id" : "chinpu-na-otoko",
@@ -41994,6 +42007,7 @@
   "animecountdown_id" : 2608850,
   "anime-planet_id" : "one-way-or-another",
   "anisearch_id" : 19731,
+  "kitsu_id" : 51144,
   "mal_id" : 59916,
   "simkl_id" : 2608850
 }, {
@@ -43617,12 +43631,10 @@
   "animenewsnetwork_id" : 33020,
   "anime-planet_id" : "dark-machine-the-animation",
   "anisearch_id" : 19498,
+  "kitsu_id" : 50986,
   "livechart_id" : 12775,
   "mal_id" : 59415,
   "simkl_id" : 2526390
-}, {
-  "type" : "TV",
-  "kitsu_id" : 50986
 }, {
   "type" : "MOVIE",
   "anilist_id" : 151083,
@@ -43660,9 +43672,6 @@
   "livechart_id" : 13526,
   "mal_id" : 63509,
   "simkl_id" : 3029646
-}, {
-  "type" : "TV",
-  "livechart_id" : 13789
 }, {
   "type" : "TV",
   "mal_id" : 65169
@@ -45203,13 +45212,11 @@
   "anisearch_id" : 22019
 }, {
   "type" : "TV",
+  "anidb_id" : 20453,
   "anilist_id" : 217715,
   "animenewsnetwork_id" : 40623,
   "livechart_id" : 13845,
   "mal_id" : 65106
-}, {
-  "type" : "UNKNOWN",
-  "anidb_id" : 20453
 }, {
   "type" : "TV",
   "anidb_id" : 4595,
@@ -47404,6 +47411,9 @@
 }, {
   "type" : "TV",
   "mal_id" : 62680
+}, {
+  "type" : "TV",
+  "mal_id" : 65216
 }, {
   "type" : "TV",
   "anidb_id" : 13051,
@@ -49905,6 +49915,9 @@
   "livechart_id" : 6758,
   "mal_id" : 2648,
   "simkl_id" : 36851
+}, {
+  "type" : "OVA",
+  "mal_id" : 65221
 }, {
   "type" : "SPECIAL",
   "anilist_id" : 2635,
@@ -54177,6 +54190,9 @@
   "anisearch_id" : 19674,
   "mal_id" : 59967,
   "simkl_id" : 2599570
+}, {
+  "type" : "ONA",
+  "anidb_id" : 20487
 }, {
   "type" : "ONA",
   "anilist_id" : 128417,
@@ -61985,6 +62001,9 @@
   "type" : "SPECIAL",
   "mal_id" : 63168
 }, {
+  "type" : "SPECIAL",
+  "mal_id" : 65224
+}, {
   "type" : "ONA",
   "anisearch_id" : 14944,
   "mal_id" : 41211
@@ -63838,10 +63857,6 @@
   "kitsu_id" : 1249,
   "mal_id" : 1396,
   "simkl_id" : 1571607
-}, {
-  "type" : "MOVIE",
-  "animenewsnetwork_id" : 40582,
-  "livechart_id" : 13826
 }, {
   "type" : "TV",
   "anidb_id" : 19239,
@@ -66399,6 +66414,9 @@
   "type" : "SPECIAL",
   "kitsu_id" : 50680,
   "mal_id" : 64011
+}, {
+  "type" : "SPECIAL",
+  "mal_id" : 65232
 }, {
   "type" : "MOVIE",
   "anidb_id" : 873,
@@ -80216,7 +80234,8 @@
 }, {
   "type" : "TV",
   "anilist_id" : 216858,
-  "animenewsnetwork_id" : 40546
+  "animenewsnetwork_id" : 40546,
+  "mal_id" : 65223
 }, {
   "type" : "TV",
   "anidb_id" : 20374,
@@ -82661,6 +82680,9 @@
   "mal_id" : 18033,
   "simkl_id" : 1572237
 }, {
+  "type" : "OVA",
+  "mal_id" : 65227
+}, {
   "type" : "TV",
   "animenewsnetwork_id" : 29926,
   "anime-planet_id" : "hello-kitty-and-friends-lets-learn-together",
@@ -82816,6 +82838,9 @@
   "livechart_id" : 8843,
   "mal_id" : 2405,
   "simkl_id" : 601739
+}, {
+  "type" : "OVA",
+  "mal_id" : 65222
 }, {
   "type" : "TV",
   "mal_id" : 47243
@@ -87160,6 +87185,7 @@
   "mal_id" : 36051
 }, {
   "type" : "ONA",
+  "anidb_id" : 19163,
   "animecountdown_id" : 2717110,
   "animenewsnetwork_id" : 36462,
   "anime-planet_id" : "chuhai-lips-canned-flavor-of-married-women",
@@ -87177,6 +87203,9 @@
   "animenewsnetwork_id" : 6989,
   "anisearch_id" : 163,
   "mal_id" : 2945
+}, {
+  "type" : "OVA",
+  "mal_id" : 65234
 }, {
   "type" : "OVA",
   "anisearch_id" : 14640,
@@ -99002,6 +99031,9 @@
   "simkl_id" : 38809
 }, {
   "type" : "TV",
+  "anilist_id" : 218679
+}, {
+  "type" : "TV",
   "anidb_id" : 6444,
   "anilist_id" : 6008,
   "animecountdown_id" : 37026,
@@ -101537,7 +101569,8 @@
   "mal_id" : 33322
 }, {
   "type" : "TV",
-  "anilist_id" : 218217
+  "anilist_id" : 218217,
+  "livechart_id" : 13789
 }, {
   "type" : "TV",
   "anidb_id" : 11578,
@@ -103697,14 +103730,12 @@
   "mal_id" : 63273
 }, {
   "type" : "TV",
-  "anisearch_id" : 21309
-}, {
-  "type" : "TV",
   "anidb_id" : 19933,
   "anilist_id" : 209116,
   "animecountdown_id" : 3045488,
   "animenewsnetwork_id" : 38647,
   "anime-planet_id" : "jm",
+  "anisearch_id" : 21309,
   "kitsu_id" : 50689,
   "livechart_id" : 13546,
   "mal_id" : 63697,
@@ -112239,6 +112270,9 @@
   "kitsu_id" : 6490,
   "mal_id" : 11299
 }, {
+  "type" : "OVA",
+  "mal_id" : 65231
+}, {
   "type" : "TV",
   "anidb_id" : 808,
   "anilist_id" : 2074,
@@ -119457,6 +119491,7 @@
   "anime-planet_id" : "kochira-shuumatsu-teitai-iinkai"
 }, {
   "type" : "UNKNOWN",
+  "anidb_id" : 20448,
   "anilist_id" : 217717,
   "livechart_id" : 13844,
   "mal_id" : 65107
@@ -122599,6 +122634,10 @@
   "mal_id" : 43,
   "simkl_id" : 37585
 }, {
+  "type" : "UNKNOWN",
+  "anidb_id" : 20500,
+  "mal_id" : 65252
+}, {
   "type" : "TV",
   "anidb_id" : 18652,
   "anilist_id" : 177699,
@@ -122893,6 +122932,9 @@
   "livechart_id" : 7133,
   "mal_id" : 3485
 }, {
+  "type" : "UNKNOWN",
+  "anilist_id" : 218740
+}, {
   "type" : "TV",
   "anidb_id" : 11815,
   "anilist_id" : 21511,
@@ -123177,6 +123219,9 @@
   "anilist_id" : 129661,
   "anime-planet_id" : "koushui-liang-shan",
   "mal_id" : 45351
+}, {
+  "type" : "ONA",
+  "mal_id" : 65217
 }, {
   "type" : "ONA",
   "anidb_id" : 14925,
@@ -132947,6 +132992,9 @@
   "type" : "TV",
   "mal_id" : 45017
 }, {
+  "type" : "ONA",
+  "anilist_id" : 218783
+}, {
   "type" : "TV",
   "mal_id" : 44779
 }, {
@@ -134869,6 +134917,11 @@
   "livechart_id" : 11785,
   "mal_id" : 54250,
   "simkl_id" : 2076802
+}, {
+  "type" : "MOVIE",
+  "anilist_id" : 218721,
+  "kitsu_id" : 51146,
+  "mal_id" : 65248
 }, {
   "type" : "TV",
   "anidb_id" : 15359,
@@ -140414,6 +140467,8 @@
   "mal_id" : 60749
 }, {
   "type" : "ONA",
+  "anilist_id" : 218532,
+  "anime-planet_id" : "the-maomao-diaries-3rd-season",
   "mal_id" : 65119
 }, {
   "type" : "ONA",
@@ -151624,9 +151679,7 @@
   "simkl_id" : 3280830
 }, {
   "type" : "TV",
-  "anidb_id" : 20461
-}, {
-  "type" : "TV",
+  "anidb_id" : 20461,
   "anilist_id" : 218040,
   "animenewsnetwork_id" : 40640,
   "anime-planet_id" : "how-i-became-king-by-eating-monsters",
@@ -153808,6 +153861,9 @@
   "anisearch_id" : 15738,
   "kitsu_id" : 46151,
   "mal_id" : 42641
+}, {
+  "type" : "ONA",
+  "mal_id" : 65220
 }, {
   "type" : "ONA",
   "anisearch_id" : 21182
@@ -164747,6 +164803,7 @@
   "anime-planet_id" : "nue"
 }, {
   "type" : "TV",
+  "anidb_id" : 20466,
   "anilist_id" : 218216,
   "animecountdown_id" : 3284332,
   "animenewsnetwork_id" : 40655,
@@ -164854,6 +164911,7 @@
   "mal_id" : 40932
 }, {
   "type" : "TV",
+  "anidb_id" : 20495,
   "anilist_id" : 218530,
   "animenewsnetwork_id" : 40689,
   "livechart_id" : 13870,
@@ -165479,6 +165537,9 @@
   "type" : "SPECIAL",
   "anilist_id" : 178670,
   "mal_id" : 57452
+}, {
+  "type" : "OVA",
+  "mal_id" : 65226
 }, {
   "type" : "TV",
   "anidb_id" : 2584,
@@ -171835,6 +171896,7 @@
   "simkl_id" : 690189
 }, {
   "type" : "TV",
+  "anidb_id" : 20501,
   "anisearch_id" : 21325,
   "livechart_id" : 13380,
   "mal_id" : 63762
@@ -171906,6 +171968,7 @@
   "anime-planet_id" : "oshiri-tantei-8th-season"
 }, {
   "type" : "TV",
+  "anidb_id" : 20275,
   "anilist_id" : 185644,
   "animenewsnetwork_id" : 34886,
   "anisearch_id" : 20268,
@@ -180695,6 +180758,7 @@
   "kitsu_id" : 48943
 }, {
   "type" : "TV",
+  "anidb_id" : 20452,
   "anilist_id" : 217787,
   "anime-planet_id" : "pop-pap-polters",
   "livechart_id" : 13537,
@@ -183546,6 +183610,9 @@
   "anime-planet_id" : "pupa-2019",
   "kitsu_id" : 45382,
   "mal_id" : 50302
+}, {
+  "type" : "SPECIAL",
+  "mal_id" : 65233
 }, {
   "type" : "ONA",
   "anidb_id" : 15868,
@@ -192994,6 +193061,7 @@
   "simkl_id" : 41352
 }, {
   "type" : "TV",
+  "anidb_id" : 20459,
   "anilist_id" : 218025,
   "animenewsnetwork_id" : 40636,
   "anime-planet_id" : "the-remarried-empress",
@@ -206878,6 +206946,14 @@
   "mal_id" : 31,
   "simkl_id" : 36206
 }, {
+  "type" : "MOVIE",
+  "mal_id" : 65247
+}, {
+  "type" : "MOVIE",
+  "animenewsnetwork_id" : 40582,
+  "livechart_id" : 13826,
+  "mal_id" : 65246
+}, {
   "type" : "OVA",
   "animenewsnetwork_id" : 3366,
   "anisearch_id" : 242,
@@ -214472,6 +214548,12 @@
   "type" : "OVA",
   "anisearch_id" : 13792,
   "mal_id" : 38141
+}, {
+  "type" : "OVA",
+  "mal_id" : 65228
+}, {
+  "type" : "OVA",
+  "mal_id" : 65229
 }, {
   "type" : "SPECIAL",
   "anime-planet_id" : "kaf-sorekara",
@@ -224123,6 +224205,9 @@
   "anime-planet_id" : "school-is-fun",
   "mal_id" : 54454
 }, {
+  "type" : "OVA",
+  "mal_id" : 65225
+}, {
   "type" : "TV",
   "anidb_id" : 1009,
   "anilist_id" : 2150,
@@ -229809,10 +229894,6 @@
 }, {
   "type" : "ONA",
   "anime-planet_id" : "the-man-who-saved-me-on-my-isekai-trip-was-a-killer-pv"
-}, {
-  "type" : "ONA",
-  "anilist_id" : 218532,
-  "anime-planet_id" : "the-maomao-diaries-3rd-season"
 }, {
   "type" : "TV",
   "anidb_id" : 17711,
@@ -240663,6 +240744,7 @@
 }, {
   "type" : "MOVIE",
   "animenewsnetwork_id" : 40628,
+  "kitsu_id" : 51145,
   "livechart_id" : 13852,
   "mal_id" : 65124
 }, {
@@ -244492,6 +244574,7 @@
   "simkl_id" : 1057885
 }, {
   "type" : "TV",
+  "anidb_id" : 20456,
   "anilist_id" : 217841,
   "animenewsnetwork_id" : 40626,
   "anime-planet_id" : "the-record-of-a-fallen-vampire",
@@ -246853,6 +246936,7 @@
 }, {
   "type" : "ONA",
   "anilist_id" : 218493,
+  "kitsu_id" : 51142,
   "livechart_id" : 13872,
   "mal_id" : 65209
 }, {
@@ -247703,6 +247787,7 @@
   "animenewsnetwork_id" : 38021,
   "anime-planet_id" : "we-are-aliens",
   "anisearch_id" : 21192,
+  "kitsu_id" : 51151,
   "livechart_id" : 13394,
   "mal_id" : 62973,
   "simkl_id" : 2937928
@@ -257295,6 +257380,7 @@
   "mal_id" : 41260
 }, {
   "type" : "OVA",
+  "anidb_id" : 13972,
   "animenewsnetwork_id" : 21142,
   "anime-planet_id" : "yarichin-bitch-bu",
   "anisearch_id" : 13520,
@@ -258480,6 +258566,7 @@
   "anilist_id" : 206273,
   "animecountdown_id" : 3198578,
   "anime-planet_id" : "guan",
+  "kitsu_id" : 51147,
   "mal_id" : 62789,
   "simkl_id" : 3198578
 }, {
@@ -261470,6 +261557,7 @@
   "simkl_id" : 37801
 }, {
   "type" : "MOVIE",
+  "anilist_id" : 143748,
   "anime-planet_id" : "yu",
   "mal_id" : 43637
 }, {
@@ -261507,9 +261595,6 @@
   "type" : "TV",
   "anime-planet_id" : "yu-liu-li",
   "mal_id" : 46759
-}, {
-  "type" : "MOVIE",
-  "anilist_id" : 143748
 }, {
   "type" : "TV",
   "anime-planet_id" : "yu-qi-lin-xian-ling-qi-yu",
@@ -263394,9 +263479,6 @@
   "mal_id" : 32850,
   "simkl_id" : 1573169
 }, {
-  "type" : "TV",
-  "anidb_id" : 20463
-}, {
   "type" : "OVA",
   "anisearch_id" : 20089,
   "mal_id" : 60784
@@ -263776,6 +263858,7 @@
   "simkl_id" : 2547960
 }, {
   "type" : "TV",
+  "anidb_id" : 20463,
   "anilist_id" : 214593,
   "animenewsnetwork_id" : 40393,
   "anisearch_id" : 21899,
@@ -265321,6 +265404,7 @@
   "anilist_id" : 214260,
   "animecountdown_id" : 3190004,
   "anime-planet_id" : "a-good-day-to-ascend",
+  "kitsu_id" : 51148,
   "mal_id" : 61619,
   "simkl_id" : 3190004
 }, {
@@ -265719,6 +265803,7 @@
 }, {
   "type" : "SPECIAL",
   "anilist_id" : 177048,
+  "kitsu_id" : 51150,
   "mal_id" : 58698
 }, {
   "type" : "OVA",
@@ -267529,6 +267614,10 @@
   "kitsu_id" : 50807,
   "mal_id" : 64483
 }, {
+  "type" : "SPECIAL",
+  "anilist_id" : 218801,
+  "mal_id" : 65254
+}, {
   "type" : "ONA",
   "anidb_id" : 17174,
   "animecountdown_id" : 1838984,
@@ -268075,6 +268164,9 @@
   "type" : "MOVIE",
   "animenewsnetwork_id" : 27064,
   "mal_id" : 65181
+}, {
+  "type" : "SPECIAL",
+  "mal_id" : 65255
 }, {
   "type" : "ONA",
   "anilist_id" : 204080,

@@ -6884,6 +6884,9 @@
   "name" : "Toaru Anbu no Item",
   "ids" : [ 13043 ]
 }, {
+  "name" : "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite",
+  "ids" : [ 13045, 13185 ]
+}, {
   "name" : "Hoshi no Kodomo to Hajimari no Ki",
   "ids" : [ 13062, 13063, 13064, 13065 ]
 }, {
@@ -6943,6 +6946,9 @@
 }, {
   "name" : "PetitCure: Precure Fairies",
   "ids" : [ 13101 ]
+}, {
+  "name" : "Android wa Keiken Ninzuu ni Hairimasu ka??",
+  "ids" : [ 13168, 13415 ]
 }, {
   "name" : "Lupin the IIIrd: Zenigata to Futari no Lupin",
   "ids" : [ 13156 ]
@@ -7166,11 +7172,11 @@
   "name" : "Da Wang Rao Ming 3",
   "ids" : [ 13854 ]
 }, {
+  "name" : "Oshiri Tantei 10th Season",
+  "ids" : [ 13380 ]
+}, {
   "name" : "5-Okunen Button",
   "ids" : [ 11254, 12841 ]
-}, {
-  "name" : "Android wa Keiken Ninzuu ni Hairimasu ka??",
-  "ids" : [ 13168, 13415 ]
 }, {
   "name" : "Anpanman to Hajimeyou! Iro, Kazu, Katachi Wakaru ka na Iro, Katachi",
   "ids" : [ 11454 ]
@@ -7363,9 +7369,6 @@
 }, {
   "name" : "Hisui Kobanashi",
   "ids" : [ 10946 ]
-}, {
-  "name" : "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite",
-  "ids" : [ 13045, 13185 ]
 }, {
   "name" : "Inferno Cop Specials",
   "ids" : [ 1663, 2724, 2725, 5758 ]
@@ -7606,9 +7609,6 @@
 }, {
   "name" : "One Piece: Straw Hat Theater",
   "ids" : [ 4906 ]
-}, {
-  "name" : "Oshiri Tantei 10th Season",
-  "ids" : [ 13380 ]
 }, {
   "name" : "Osomatsu-san 4th Season: The Matsuno Ten",
   "ids" : [ 13666 ]

@@ -8126,6 +8126,9 @@
   "name" : "Dr. Stone: Terraforming",
   "ids" : [ 218099 ]
 }, {
+  "name" : "1996",
+  "ids" : [ 218739 ]
+}, {
   "name" : "365-nichi no Ashita",
   "ids" : [ 204741, 204742 ]
 }, {
@@ -8363,6 +8366,9 @@
   "name" : "Nani Yatte mo Umaku Ikanai",
   "ids" : [ 140180, 153320 ]
 }, {
+  "name" : "Jewel Catch! Tiniping",
+  "ids" : [ 218679 ]
+}, {
   "name" : "Jing Jing Lai Le Dao",
   "ids" : [ 129545, 129546 ]
 }, {
@@ -8393,6 +8399,9 @@
   "name" : "Kotobadori (July 2019)",
   "ids" : [ 125262, 125263 ]
 }, {
+  "name" : "Koukaku Kidoutai: THE GHOST IN THE SHELL (Shinsaku Animation)",
+  "ids" : [ 218740 ]
+}, {
   "name" : "Koushin Suru Kaibutsu",
   "ids" : [ 148253, 148257, 148258 ]
 }, {
@@ -8414,8 +8423,14 @@
   "name" : "Leron Leron Sinta",
   "ids" : [ 179737, 179779 ]
 }, {
+  "name" : "Luode Dao Xuayuan",
+  "ids" : [ 218783 ]
+}, {
   "name" : "Ma-eum-uisoli",
   "ids" : [ 132347, 132348 ]
+}, {
+  "name" : "Made in Abyss: Mezameru Shinpi Part 2",
+  "ids" : [ 218721 ]
 }, {
   "name" : "Mardock Scramble: The First Compression",
   "ids" : [ 8100, 10624, 12053 ]
@@ -8608,4 +8623,7 @@
 }, {
   "name" : "Zou no Senaka: Tabidatsu Hi",
   "ids" : [ 102983, 158619 ]
+}, {
+  "name" : "Zombie Zombie Zombie",
+  "ids" : [ 218801 ]
 } ]

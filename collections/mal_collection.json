@@ -10484,6 +10484,9 @@
   "name" : "Taiyou yori mo Mabushii Hoshi",
   "ids" : [ 60969, 62663, 63121 ]
 }, {
+  "name" : "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite",
+  "ids" : [ 61023, 62349 ]
+}, {
   "name" : "Galaxy Apartment☆Cosmo Hills",
   "ids" : [ 61038, 61039, 61040, 61041 ]
 }, {
@@ -10540,6 +10543,9 @@
 }, {
   "name" : "Jibi Eopseo PV",
   "ids" : [ 52881, 59868 ]
+}, {
+  "name" : "Android wa Keiken Ninzuu ni Hairimasu ka??",
+  "ids" : [ 61694, 63330 ]
 }, {
   "name" : "Catch! Tiniping",
   "ids" : [ 48343, 55659, 55660, 56677, 59894, 62654 ]
@@ -10751,6 +10757,9 @@
   "name" : "Dr. Stone: Terraforming",
   "ids" : [ 65161 ]
 }, {
+  "name" : "Koukaku Kidoutai (Shinsaku Animation)",
+  "ids" : [ 65252 ]
+}, {
   "name" : "'Supernova (KENZIE RE:WORKS)'",
   "ids" : [ 64352 ]
 }, {
@@ -10867,9 +10876,6 @@
 }, {
   "name" : "Gosenzo Sane",
   "ids" : [ 188, 4561, 6690 ]
-}, {
-  "name" : "Android wa Keiken Ninzuu ni Hairimasu ka??",
-  "ids" : [ 61694, 63330 ]
 }, {
   "name" : "Imouto Jiru",
   "ids" : [ 1783, 2867, 9435 ]
@@ -11288,6 +11294,9 @@
   "name" : "Cha A Er Zhong",
   "ids" : [ 46864, 46865, 46866, 46867, 46868, 46869, 46870, 46871, 46872, 56334, 59381 ]
 }, {
+  "name" : "Cha A Er Zhong 6th Season",
+  "ids" : [ 65256 ]
+}, {
   "name" : "Chameleon (2022)",
   "ids" : [ 52510, 57326, 60504 ]
 }, {
@@ -11540,6 +11549,9 @@
   "name" : "Dinoster: Gonglyongsuhodae",
   "ids" : [ 57117, 58933, 62680 ]
 }, {
+  "name" : "Dinoster: Gonglyongsuhodae 4th Season",
+  "ids" : [ 65216 ]
+}, {
   "name" : "Discipline",
   "ids" : [ 2432, 7456 ]
 }, {
@@ -11563,6 +11575,9 @@
 }, {
   "name" : "Kuaile Dongxi",
   "ids" : [ 45355, 45356, 45357, 45358, 45359, 45360, 45361, 45362, 45363 ]
+}, {
+  "name" : "Doraemon: Doraemon no Nandemo Quiz Pocket",
+  "ids" : [ 65221 ]
 }, {
   "name" : "Doraon Yeongung Hong Gildong",
   "ids" : [ 43702 ]
@@ -11816,6 +11831,9 @@
   "name" : "Garou Densetsu x Street Fighter",
   "ids" : [ 62976 ]
 }, {
+  "name" : "Garou Densetsu: CotW x Tokyo Revengers",
+  "ids" : [ 65232 ]
+}, {
   "name" : "Gelpiyo 2nd Season",
   "ids" : [ 65051 ]
 }, {
@@ -12029,6 +12047,9 @@
   "name" : "Hello Carbot Season 15",
   "ids" : [ 59387, 62448 ]
 }, {
+  "name" : "Hello Kitty Tanoshii Okaimono",
+  "ids" : [ 65227 ]
+}, {
   "name" : "Hello Kitty-tachi to Utaou! Kodomo no Uta Best Album: Yume no Hiyoko",
   "ids" : [ 52138, 52140 ]
 }, {
@@ -12040,6 +12061,9 @@
 }, {
   "name" : "Hello Kitty-tachi to Utaou! Kodomo no Uta: Rock'n Omelette",
   "ids" : [ 52144 ]
+}, {
+  "name" : "Hello! Lady Lynn no Yume no Oheya e Youkoso",
+  "ids" : [ 65222 ]
 }, {
   "name" : "Hello! Pu Xingren",
   "ids" : [ 47243, 47244 ]
@@ -12100,9 +12124,6 @@
 }, {
   "name" : "Hitozuma Cosplay Kissa",
   "ids" : [ 2958, 3917 ]
-}, {
-  "name" : "Hitozuma no Kuchibiru wa Kan Chuuhai no Aji ga Shite",
-  "ids" : [ 61023, 62349 ]
 }, {
   "name" : "Hong Hai Er Yu Daxueyuan",
   "ids" : [ 46499, 46500 ]
@@ -12500,6 +12521,12 @@
   "name" : "Kemy Lang Buka Chaka",
   "ids" : [ 34665, 34666, 34667 ]
 }, {
+  "name" : "Kero Kero Keroppi no Issho ni Asobou",
+  "ids" : [ 65231 ]
+}, {
+  "name" : "22647",
+  "ids" : [ 22647 ]
+}, {
   "name" : "Kerokero News Show",
   "ids" : [ 64798, 65160 ]
 }, {
@@ -12781,6 +12808,9 @@
 }, {
   "name" : "Made in Abyss: Hime-sama Nikki",
   "ids" : [ 65155 ]
+}, {
+  "name" : "Made in Abyss: Mezameru Shinpi Part 2",
+  "ids" : [ 65248 ]
 }, {
   "name" : "Mafiosa",
   "ids" : [ 62610 ]
@@ -13126,6 +13156,9 @@
 }, {
   "name" : "62074",
   "ids" : [ 62074 ]
+}, {
+  "name" : "Obake no Q-taro: Oba Q Channel",
+  "ids" : [ 65226 ]
 }, {
   "name" : "Odoru Pompokolin",
   "ids" : [ 61110 ]
@@ -13541,6 +13574,12 @@
   "name" : "57742",
   "ids" : [ 57742 ]
 }, {
+  "name" : "Shinseiki GPX Cyber Formula Asurada",
+  "ids" : [ 65247 ]
+}, {
+  "name" : "Shinseiki GPX Cyber Formula: Early Days Renewal Movie Edition",
+  "ids" : [ 65246 ]
+}, {
   "name" : "Shintaisou: Shin",
   "ids" : [ 1632, 1633 ]
 }, {
@@ -13633,6 +13672,12 @@
 }, {
   "name" : "Sore mo Ii ne",
   "ids" : [ 61823, 61824 ]
+}, {
+  "name" : "Soreike! Anpanman: Norimono Iro-iro Daibouken",
+  "ids" : [ 65228 ]
+}, {
+  "name" : "Soreike! Anpanman: Panya-san te Donnatoko?",
+  "ids" : [ 65229 ]
 }, {
   "name" : "Sorotani no Animetchi",
   "ids" : [ 58799, 61772 ]
@@ -13732,6 +13777,9 @@
 }, {
   "name" : "Tanetsuke Ojisan to NTR Hitozuma Sex The Animation",
   "ids" : [ 55161, 55162 ]
+}, {
+  "name" : "Tanoshii Moomin Ikka: Moomin no Sutekina Present",
+  "ids" : [ 65225 ]
 }, {
   "name" : "Taoleujima Beoseuteo",
   "ids" : [ 48344, 48345, 61904 ]
@@ -14276,6 +14324,9 @@
   "name" : "Zombie Dumb",
   "ids" : [ 48323, 55837, 55838 ]
 }, {
+  "name" : "Zombie Zombie Zombie",
+  "ids" : [ 65254 ]
+}, {
   "name" : "Zui Ke Ai De Ren",
   "ids" : [ 45116, 51640 ]
 }, {
@@ -14284,4 +14335,7 @@
 }, {
   "name" : "59753",
   "ids" : [ 59753 ]
+}, {
+  "name" : "桃源暗鬼",
+  "ids" : [ 65255 ]
 } ]
